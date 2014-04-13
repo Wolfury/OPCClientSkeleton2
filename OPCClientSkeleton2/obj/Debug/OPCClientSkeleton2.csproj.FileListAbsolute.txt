@@ -1,0 +1,6 @@
+Z:\Working\VS2012\_Misc_Examples\OPCClientSkeleton2\OPCClientSkeleton2\bin\Debug\OPCClientSkeleton2.exe.config
+Z:\Working\VS2012\_Misc_Examples\OPCClientSkeleton2\OPCClientSkeleton2\bin\Debug\OPCClientSkeleton2.exe
+Z:\Working\VS2012\_Misc_Examples\OPCClientSkeleton2\OPCClientSkeleton2\bin\Debug\OPCClientSkeleton2.pdb
+Z:\Working\VS2012\_Misc_Examples\OPCClientSkeleton2\OPCClientSkeleton2\obj\Debug\OPCClientSkeleton2.exe
+Z:\Working\VS2012\_Misc_Examples\OPCClientSkeleton2\OPCClientSkeleton2\obj\Debug\OPCClientSkeleton2.pdb
+Z:\Working\VS2012\_Misc_Examples\OPCClientSkeleton2\OPCClientSkeleton2\obj\Debug\OPCClientSkeleton2.csprojResolveAssemblyReference.cache
